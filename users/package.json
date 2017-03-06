@@ -1,0 +1,9 @@
+{
+  "name": "users",
+  "version": "1.0.0",
+  "description": "Initial GraphQL Project",
+  "main": "index.js",
+  "repository": {},
+  "author": "Sang Choi",
+  "license": "MIT"
+}
